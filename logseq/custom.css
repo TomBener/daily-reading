@@ -1,0 +1,6 @@
+@import url('https://rcvd.github.io/logseq-craft-theme/craft.css');
+
+.flashcards-nav,
+.github-alert {
+  display: none;
+}

@@ -1,0 +1,11 @@
+- 快捷键：
+	- `gj` 查看日记页面
+	- `tt` 快速切换主题
+	- `ts` 打开设置面板
+	- `gs` 查看快捷页面
+	- `gg` Open Graph view
+	- `shift + click` Open in the sidebar
+- Daily Notes 示例页面：
+	- [[2022-04-17]]
+- [[GitHub]] 仓库：
+	- https://github.com/TomBener/daily-reading

@@ -1,0 +1,30 @@
+# .github/workflows/publish.yml
+
+name: Publish
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Check out codebase'
+        uses: actions/checkout@v3
+
+      - name: 'Build pages via Logseq'
+        uses: pengx17/logseq-publish@main
+
+      - name: 'Deploy to GitHub Pages'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: www
+          force_orphan: true
