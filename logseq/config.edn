@@ -178,10 +178,11 @@
  :ref/linked-references-collapsed-threshold 50
  :favorites ["Contents" "README"]
  :publishing/all-pages-public? true
- :journal/page-title-format "yyyy-MM-dd"
+ :journal/page-title-format "MMM do, yyyy"
  :journal/file-name-format "yyyy-MM-dd"
  :feature/enable-journals? true
  :default-home {:page "Contents"}
+ :graph/settings {:journal? true, :builtin-pages? true}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
