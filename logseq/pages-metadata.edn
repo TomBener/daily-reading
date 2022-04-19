@@ -4,6 +4,9 @@
  {:block/name "1984",
   :block/created-at 1650198641910,
   :block/updated-at 1650198641910}
+ {:block/name "1995",
+  :block/created-at 1650374584183,
+  :block/updated-at 1650374584183}
  {:block/name "1996",
   :block/created-at 1650355922387,
   :block/updated-at 1650355922387}
@@ -19,12 +22,9 @@
  {:block/name "africa",
   :block/created-at 1650162461499,
   :block/updated-at 1650162461499}
- {:block/name "apr 15th, 2022",
-  :block/created-at 1650359361924,
-  :block/updated-at 1650359361924}
  {:block/name "apr 16th, 2022",
   :block/created-at 1650198600213,
-  :block/updated-at 1650198600213}
+  :block/updated-at 1650374633968}
  {:block/name "apr 17th, 2022",
   :block/created-at 1650198627104,
   :block/updated-at 1650199642109}
@@ -33,10 +33,7 @@
   :block/updated-at 1650293119594}
  {:block/name "apr 19th, 2022",
   :block/created-at 1650355922402,
-  :block/updated-at 1650358398929}
- {:block/name "apr 20th, 2022",
-  :block/created-at 1650359355776,
-  :block/updated-at 1650359355776}
+  :block/updated-at 1650374792451}
  {:block/name "authoritarian regime",
   :block/created-at 1650355922396,
   :block/updated-at 1650355922396}
@@ -46,6 +43,9 @@
  {:block/name "bill clinton",
   :block/created-at 1650355922388,
   :block/updated-at 1650355922388}
+ {:block/name "blaise pascal",
+  :block/created-at 1650374584188,
+  :block/updated-at 1650374584188}
  {:block/name "c",
   :block/created-at 1649901910507,
   :block/updated-at 1649901910507}
@@ -202,6 +202,9 @@
  {:block/name "全国少工委",
   :block/created-at 1650292322403,
   :block/updated-at 1650292322403}
+ {:block/name "全球化",
+  :block/created-at 1650374584185,
+  :block/updated-at 1650374584185}
  {:block/name "北大",
   :block/created-at 1650162461496,
   :block/updated-at 1650162461496}
@@ -211,15 +214,27 @@
  {:block/name "南方周末",
   :block/created-at 1650198641904,
   :block/updated-at 1650198641904}
+ {:block/name "启蒙运动",
+  :block/created-at 1650374584187,
+  :block/updated-at 1650374584187}
+ {:block/name "国家机器",
+  :block/created-at 1650374584186,
+  :block/updated-at 1650374584186}
  {:block/name "女儿",
   :block/created-at 1650292322410,
   :block/updated-at 1650292322410}
  {:block/name "孤独",
   :block/created-at 1650292322410,
   :block/updated-at 1650292322410}
+ {:block/name "市场经济",
+  :block/created-at 1650374584186,
+  :block/updated-at 1650374584186}
  {:block/name "年轻人",
   :block/created-at 1650198641913,
   :block/updated-at 1650198641913}
+ {:block/name "恐怖主义",
+  :block/created-at 1650374584185,
+  :block/updated-at 1650374584185}
  {:block/name "成见",
   :block/created-at 1650356075581,
   :block/updated-at 1650356075581}
@@ -229,6 +244,9 @@
  {:block/name "新闻理想",
   :block/created-at 1650198641913,
   :block/updated-at 1650198641913}
+ {:block/name "民主",
+  :block/created-at 1650374584184,
+  :block/updated-at 1650374584184}
  {:block/name "江雪",
   :block/created-at 1650198641909,
   :block/updated-at 1650198641909}
@@ -238,12 +256,24 @@
  {:block/name "浙江",
   :block/created-at 1650292428507,
   :block/updated-at 1650292428507}
+ {:block/name "独立宣言",
+  :block/created-at 1650374584186,
+  :block/updated-at 1650374584186}
  {:block/name "独立思考",
   :block/created-at 1650292322409,
   :block/updated-at 1650292322409}
+ {:block/name "苏格拉底",
+  :block/created-at 1650374584187,
+  :block/updated-at 1650374584187}
  {:block/name "言论自由",
   :block/created-at 1650198641908,
   :block/updated-at 1650198641908}
+ {:block/name "赛博空间",
+  :block/created-at 1650374792451,
+  :block/updated-at 1650374792451}
  {:block/name "钱钢",
-  :block/created-at 1650198641905, 
-  :block/updated-at 1650198641905}]
+  :block/created-at 1650198641905,
+  :block/updated-at 1650198641905}
+ {:block/name "鲁迅",
+  :block/created-at 1650374584187, 
+  :block/updated-at 1650374584187}]
