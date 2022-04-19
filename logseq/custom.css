@@ -7,10 +7,6 @@
   display: none;
 }
 
-#main-content-container > div[data-is-full-width="false"] > div {
-  max-width: 38em;
-}
-
 .content {
   font-family: 'Noto Serif SC', serif;
   text-align: justify;

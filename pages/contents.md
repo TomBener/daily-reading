@@ -1,11 +1,11 @@
 - 快捷键：
-	- `gj` 查看日记页面
-	- `tt` 快速切换主题
-	- `ts` 打开设置面板
-	- `gs` 查看快捷页面
+	- `gj` 查看 Daily Journal
+	- `gn` Go to next journal
+	- `gp` Go to previous journal
+	- `tt` 切换主题 dark/light theme
 	- `gg` Open Graph view
-	- `shift + click` Open in the sidebar
-- Daily Notes 示例页面：
-	- [[Apr 17th, 2022]]
-- [[GitHub]] 仓库：
+	- `shift + click` Open link in sidebar
+- Daily Journals 示例页面：
+	- [[Apr 19th, 2022]]
+- [[GitHub]] Repository:
 	- https://github.com/TomBener/daily-reading
