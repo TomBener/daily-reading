@@ -40,6 +40,9 @@
  {:block/name "apr 20th, 2022",
   :block/created-at 1650468993356,
   :block/updated-at 1650468993356}
+ {:block/name "apr 23rd, 2022",
+  :block/created-at 1650708019657,
+  :block/updated-at 1650724160306}
  {:block/name "authoritarian regime",
   :block/created-at 1650355922396,
   :block/updated-at 1650355922396}
@@ -64,6 +67,9 @@
  {:block/name "deep linking",
   :block/created-at 1650161565605,
   :block/updated-at 1650161565605}
+ {:block/name "democracy",
+  :block/created-at 1650723410539,
+  :block/updated-at 1650723410539}
  {:block/name "deng xiaoping",
   :block/created-at 1650161903784,
   :block/updated-at 1650161903784}
@@ -82,9 +88,9 @@
  {:block/name "foreign worker",
   :block/created-at 1650355922393,
   :block/updated-at 1650355922393}
- {:block/name "gender",
-  :block/created-at 1650161844985,
-  :block/updated-at 1650161844985}
+ {:block/name "freedom of expression",
+  :block/created-at 1650723410540,
+  :block/updated-at 1650723410540}
  {:block/name "github",
   :block/created-at 1650159729795,
   :block/updated-at 1650159729795}
@@ -133,9 +139,6 @@
  {:block/name "pakistan",
   :block/created-at 1650162461500,
   :block/updated-at 1650162461500}
- {:block/name "personal connections in the digital age",
-  :block/created-at 1650161736486,
-  :block/updated-at 1650161736486}
  {:block/name "philippe chancel",
   :block/created-at 1650355922394,
   :block/updated-at 1650355922394}
