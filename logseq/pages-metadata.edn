@@ -41,8 +41,11 @@
   :block/created-at 1650468993356,
   :block/updated-at 1650468993356}
  {:block/name "apr 23rd, 2022",
-  :block/created-at 1650708019657,
-  :block/updated-at 1650724160306}
+  :block/created-at 1650729611560,
+  :block/updated-at 1650730136134}
+ {:block/name "apr 24th, 2022",
+  :block/created-at 1650729611507,
+  :block/updated-at 1650729611507}
  {:block/name "authoritarian regime",
   :block/created-at 1650355922396,
   :block/updated-at 1650355922396}
@@ -68,8 +71,8 @@
   :block/created-at 1650161565605,
   :block/updated-at 1650161565605}
  {:block/name "democracy",
-  :block/created-at 1650723410539,
-  :block/updated-at 1650723410539}
+  :block/created-at 1650729611558,
+  :block/updated-at 1650729611558}
  {:block/name "deng xiaoping",
   :block/created-at 1650161903784,
   :block/updated-at 1650161903784}
@@ -89,8 +92,8 @@
   :block/created-at 1650355922393,
   :block/updated-at 1650355922393}
  {:block/name "freedom of expression",
-  :block/created-at 1650723410540,
-  :block/updated-at 1650723410540}
+  :block/created-at 1650729611559,
+  :block/updated-at 1650729611559}
  {:block/name "github",
   :block/created-at 1650159729795,
   :block/updated-at 1650159729795}
