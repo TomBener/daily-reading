@@ -1,0 +1,20 @@
+/* import the theme */
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/dark.css');
+
+/* JetBrains Mono */
+@import url(https://fonts.bunny.net/css?family=jetbrains-mono:400,800);
+
+/* LXGW WenKai / 霞鹜文楷 */
+/* @import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css'); */
+
+.flashcards-nav,
+.github-alert {
+  display: none;
+}
+
+.content {
+    font-family: "JetBrains Mono", monospace;
+    /* font-family: "LXGW WenKai", sans-serif; */
+    /* text-align: justify; */
+}
