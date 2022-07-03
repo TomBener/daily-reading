@@ -5,7 +5,7 @@
 	- `tt` 切换主题 dark/light theme
 	- `gg` Open Graph view
 	- `shift + click` Open link in sidebar
-- Daily Journals 示例页面：
-	- [[Apr 19th, 2022]]
-- [[GitHub]] Repository:
-	- https://github.com/TomBener/daily-reading
+- Daily Journal 示例页面：
+	- [[Jun 1st, 2022]]
+- [[GitHub Repository]]:
+	- https://github.com/TomBener/web-excursions
