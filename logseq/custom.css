@@ -1,6 +1,11 @@
+/* import the theme */
 @import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');
 @import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/dark.css');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap');
+
+/* JetBrains Mono */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&display=swap');
+/* LXGW WenKai / 霞鹜文楷 */
+/* @import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css'); */
 
 .flashcards-nav,
 .github-alert {
@@ -8,6 +13,7 @@
 }
 
 .content {
-  font-family: 'Noto Serif SC', serif;
-  text-align: justify;
+    font-family: "JetBrains Mono", monospace;
+    /* font-family: "LXGW WenKai", sans-serif; */
+    /* text-align: justify; */
 }
